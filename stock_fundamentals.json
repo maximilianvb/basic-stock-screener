@@ -1,0 +1,24 @@
+[
+  {
+    "company_name": "Ericsson",
+    "ticker": "ERIC",
+    "debt-equity ratio": 27.5,
+    "price-earnings ratio": 127.2,
+    "price-sales ratio": 1.03
+  },
+  {
+    "company_name": "Electrolux",
+    "ticker": "ELUX",
+    "debt-equity ratio": 22.34,
+    "price-earnings ratio": 18.08,
+    "price-sales ratio": 0.28
+  },
+  {
+    "company_name": "Swedish Match",
+    "ticker": "SWMA",
+    "debt-equity ratio": 29.76,
+    "price-earnings ratio": 23.29,
+    "price-sales ratio": 6.16
+  }
+]
+
